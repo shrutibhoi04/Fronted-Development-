@@ -1,2 +1,2 @@
 **FULL STACK DEVELOPMENT**
-Frontend Development Projects using HTML,CSS and JavaScript 
+Full stack Development Projects using HTML,CSS and JavaScript, Angular js, MYSQL, React js, Django, MongoDB etc.
